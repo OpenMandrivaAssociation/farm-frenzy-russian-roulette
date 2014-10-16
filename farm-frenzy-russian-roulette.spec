@@ -1,6 +1,6 @@
 Name: farm-frenzy-russian-roulette
 Version: 1.0
-Release: 1
+Release: 2
 # Tarball generated from installing the game available at the download
 # URL by running
 # WINEPREFIX=/usr/lib/games/Fram-Frenzy-Russian-Roulette wine russianroulette_setup_full.exe
